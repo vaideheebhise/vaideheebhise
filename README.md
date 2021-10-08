@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vaidehee. I am an aspiring software engineer currently seeking opportunities as a backend software engineer. I have worked on a number of personal projects like game development, writing the rest APIs which can be found on my GitHub profile: https://github.com/vaideheebhise. I am currently volunteering as a backend software engineer in an open-source project by Nxt Wave Founders, CoCreationNation: https://github.com/CoCreationNation/Prototype.
+I am Vaidehee. I am an aspiring software engineer currently seeking opportunities as a backend software engineer. I have worked on a number of personal projects like game development, writing the rest APIs. I am currently volunteering as a backend software engineer in an open-source project by Nxt Wave Founders, CoCreationNation: https://github.com/CoCreationNation/Prototype.
 
 Below is a summary of the tools I am familiar with :
 
@@ -10,3 +10,5 @@ Below is a summary of the tools I am familiar with :
 - Frameworks and Libraries: Flask, Bootstrap, Tkinter, Pandas, Turtle, Request, SQLAlchemy, Jinja
 
 Courses: Artificial Intelligence, Machine Learning, Signal Processing, Image Processing. 
+
+💬 Connect with me on [Linkedin](https://www.linkedin.com/in/vaidehee-bhise-2597bb119/)
