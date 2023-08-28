@@ -6,7 +6,7 @@ Below is a summary of the tools I am familiar with :
 
 - Languages: Python, HTML, CSS
 - Tools: PyCharm, Git, Bash, Jupyter Notebook, Docker, Docker Compose
-- Database: SQL, Postgresql
+- Database: MySQL, Postgresql
 - Frameworks and Libraries: Pandas
 - Visualization: Tableau, Power BI
 
